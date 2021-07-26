@@ -80,7 +80,7 @@ ga_domain: huangxuan.me
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "向彦（xy），伞兵1号，猪猪伞兵。 <br> Yan Xiang (i.e., xy), idiot I, Pig Idiot. <br><br> \
                             杨越（yy），伞兵2号。 <br> Yue Yang (i.e., yy), idiot II."
-sidebar-avatar: /img/xyyy.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/xyyy/xyyy.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -104,31 +104,35 @@ page-mathjax: false
 # Friends
 friends: [
     {
+        title: "Yue Yang",
+        href: "https://the-chosen.github.io/"
+    }
+    # {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
-    },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
-    },{
-        title: "Ebn Zhang",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    }
+    #     title: "乱序（Midare）",
+    #     href: "http://mida.re/"
+    # },{
+    #     title: "Sherry Woo",
+    #     href: "https://sherrywoo.me/"
+    # },{
+    #     title: "Kun Qian",
+    #     href: "http://kunq.me"
+    # },{
+    #     title: "Ebn Zhang",
+    #     href: "http://ebnbin.com/"
+    # },{
+    #     title: "SmdCn",
+    #     href: "http://blog.smdcn.net"
+    # },{
+    #     title: "JiyinYiyong",
+    #     href: "http://tiye.me/"
+    # },{
+    #     title: "DHong Say",
+    #     href: "http://dhong.co"
+    # },{
+    #     title: "尹峰以为",
+    #     href: "http://ingf.github.io/"
+    # }
 ]

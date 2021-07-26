@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "Hello xy"
+subtitle:   " \"Hello World, Hello xy, This yy\""
+date:       20121-07-26 19:23:00
+author:     "yy"
+header-img: "img/xyyy/bg1-bpg.JPG"
+catalog: true
+tags:
+    - 创始文
+    - 写给xy和yy的
+---
+
+> “Yes, Here It Is!”
+
+XY和YY的Blog今天建好啦，但是XY这只猪还不知道嘻嘻😬！
+
+这个小角落，是专属于我们俩的，希望我们俩能一起捣鼓捣鼓，把这个小角落弄的越来越像一个online home，塞在里面的全是两只猪的回忆！
+
+yy暂时的想法是放这些东西进来：
+- 我俩的点点滴滴，一起经历的事情（开心的也好，不开心的也好）。
+- 一些重要的日子。
+- 一些照片视频。
+
+yy会慢慢往里面塞这些，嘻嘻！
+
+---
+
+yy刚刚搞好这个小角落的初步框架的时候，xy猪猪还在发表逃兵言论呢！希望xy看到这篇创始文的时候已经是yy女朋友啦嘻嘻嘻！
+
+———— yy写于2021年7月26日 19点23分（北京时间）
+
+
+
+
