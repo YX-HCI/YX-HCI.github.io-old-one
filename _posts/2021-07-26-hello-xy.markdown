@@ -2,9 +2,9 @@
 layout:     post
 title:      "Hello xy"
 subtitle:   " \"Hello World, Hello xy, This yy\""
-date:       20121-07-26 19:23:00
+date:       2021-07-26 19:23:00
 author:     "yy"
-header-img: "img/xyyy/bg1-bpg.JPG"
+header-img: "img/xyyy/hezhao1.jpeg"
 catalog: true
 tags:
     - 创始文
