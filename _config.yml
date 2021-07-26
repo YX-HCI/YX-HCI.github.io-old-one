@@ -1,10 +1,10 @@
 # Site settings
-title: Online Home -> xy & yy
-SEOTitle: xy&yy
+title: 俩猪猪的小角落
+SEOTitle: xy❤️yy
 header-img: img/home-bg.jpg
 email: xyyy6523@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "向彦和杨越的小角落！ | xy和yy的小角落 | 逃兵和抓逃兵的人的小角落 | 猪和猪的小角落 | 伞兵1号和伞兵2号的小角落"
+keyword: "xy, yy, 猪, 伞兵, 逃兵"
 url: "https://xy99yy.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -80,7 +80,7 @@ ga_domain: huangxuan.me
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "向彦（xy），伞兵1号，猪猪伞兵。 <br> Yan Xiang (i.e., xy), idiot I, Pig Idiot. <br><br> \
                             杨越（yy），伞兵2号。 <br> Yue Yang (i.e., yy), idiot II."
-sidebar-avatar: /img/xyyy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/xyyy.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
