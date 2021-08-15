@@ -1,7 +1,7 @@
 # Site settings
 title: 俩猪猪的小角落
 SEOTitle: xy💖yy
-header-img: img/home-bg.jpg
+header-img: img/xyyy/present-from-xy.jpeg
 email: xyyy6523@gmail.com
 description: "向彦和杨越的小角落！ | xy和yy的小角落 | 逃兵和抓逃兵的人的小角落 | 猪和猪的小角落 | 伞兵1号和伞兵2号的小角落"
 keyword: "xy, yy, 猪, 伞兵, 逃兵"
@@ -80,7 +80,7 @@ ga_domain: huangxuan.me
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "向彦（xy），伞兵1号，猪猪伞兵。 <br> Yan Xiang (i.e., xy), idiot I, Pig Idiot. <br><br> \
                             杨越（yy），伞兵2号。 <br> Yue Yang (i.e., yy), idiot II."
-sidebar-avatar: /img/xyyy/xyyy.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/xyyy/two-pigs.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
